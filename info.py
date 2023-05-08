@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 28538746 
+API_HASH     = "90fbc9f662d087e22bc5bb764e856872"
+BOT_TOKEN    = "6143808869:AAGBqJIvfvkZNBS3VaMQcRwHKvPfaREVVbM"
+SESSION      = "BQCc1sT0Q0cXdHJo67toXJzmuq7GaApanItgitYMYtiTlFeaFUeccnuNf1rLXXNokExcdJBqGimZ3zVBvaYgWQPDBYo-BDqg3T7YMSsYIEBOoSgFu9tsLVxXng_NeKj6TgfNjJFjqr3Pg461tq8LDJTAwZj_lQCDs3-vbh9geTFPyMLjZifhGrxSDxV4pojrGQdGecllb2bwJ5eOTdRGfqAr6pdT8QBz0Q9wTCfygnsISGiHYLt-mo1dT07eoJNXukIIB6MLF3SiHEf_chV7m29Pt-7nbWsD19FOV59XoMStmr4qIbDGD61-vii4S_141EvRsb-RAyCJIPs24CIkAG0iAAAAAXbLFMAA"
+DATABASE_URI = "mongodb+srv://mangibishnoi209209:mangibishnoi209209@cluster0.m8ibbkb.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001903640818
+ADMIN        = 1512434412
+CHANNEL      = "@BOTNINJA_movies"
