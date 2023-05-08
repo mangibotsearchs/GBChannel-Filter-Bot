@@ -3,8 +3,9 @@ class script(object):
    
 I'ᴍ **Find Post Bᴏᴛ**.
 
-I'ᴍ best Cʜᴀɴɴᴇʟ Link Search Bᴏᴛ! 
-I Will Filter Yᴏᴜʀ Cʜᴀɴɴᴇʟ Posts Automatically And Sᴇɴᴅ It In Yᴏᴜʀ Group Chat When Someone **Search** It.
+I'ᴍ best Cʜᴀɴɴᴇʟ 🔗 Link Search Bᴏᴛ🤖! 
+
+I Will Filter Yᴏᴜʀ Cʜᴀɴɴᴇʟ Posts Automatically & Sᴇɴᴅ It In Yᴏᴜʀ Group Chat When Someone **Search..🔍** It.
 
 Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ.☺️
 
@@ -23,7 +24,7 @@ this will help you to remove a indexed channel from your group.
 
 Get connected channels list with - /connections"""
 
-    ABOUT = """Developed By @CyniteBackup
+    ABOUT = """Developed By @BotninjaBackup
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/SAHARAN_09'>SHISHPAL</a>
